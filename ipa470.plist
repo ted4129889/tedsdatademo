@@ -7,20 +7,20 @@
 		<dict>
 			<key>assets</key>
 			<array>
-					<dict>
+				<dict>
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
 					<string>http://www.luckig.com/apk/470.ipa</string>
 				</dict> 
 				<dict>
-						<key>kind</key>
-						<string>full-size-image</string>
-						<key>needs-shine</key>
-						<true/>
-						<key>url</key>
-						<string>http://www.luckig.com/apk/factoring.jpg</string>
-					</dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.luckig.com/apk/factoring.jpg</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
