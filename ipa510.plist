@@ -13,14 +13,6 @@
 					<key>url</key>
 					<string>http://www.luckig.com/apk/510.ipa</string>
 				</dict> 
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://www.luckig.com/apk/factoring.jpg</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
